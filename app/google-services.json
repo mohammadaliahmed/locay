@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402075766516",
+    "firebase_url": "https://location-ff660.firebaseio.com",
+    "project_id": "location-ff660",
+    "storage_bucket": "location-ff660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402075766516:android:15b4557a7a87794f",
+        "android_client_info": {
+          "package_name": "com.locay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402075766516-ossk52njudlvjqar00iv0ercocnr9f6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.locay",
+            "certificate_hash": "d97c60bb3679a27ad24e0a0136ef8f80cea1f50b"
+          }
+        },
+        {
+          "client_id": "402075766516-j95hs2jp9aqvuvb7bd5jd2lb2bm357nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5f9hzKDN6dUVdzdS7OqZv2L5IeaMlIzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402075766516-j95hs2jp9aqvuvb7bd5jd2lb2bm357nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
